@@ -50,4 +50,5 @@ The model is then evaluated by returning the accuracy, a classification report a
 
 ## Credits
 predictive_maintenance.ipynb was written by E. Thompson
+
 The predictive maintenance dataset from Kaggle, found [here](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification) originates from [UCI](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset)
